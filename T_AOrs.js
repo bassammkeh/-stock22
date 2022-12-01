@@ -1,1 +1,0 @@
-﻿var AOr = [{AOr1 :"13210.66"}];var AOs = [{AOs1 :"12610.47"}];var CDs = [{CrDs :"1"}];
