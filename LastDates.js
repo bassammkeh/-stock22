@@ -1,1 +1,0 @@
-﻿var LastDate = [{LDate :"01/12/2022"}];
